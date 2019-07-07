@@ -1,15 +1,15 @@
 # Mxdex
 Data Memo Excel Addin
 
-[PPT Introduction Material](https://raw.githubusercontent.com/minikie/mxdex/master/etc/mxdEx_v1.pptm) 
+[PPT Introduction Material](https://raw.githubusercontent.com/minikie/xelmemo/master/etc/mxdEx_v1.pptm) 
 
 
 # ScreenShot
-![ScreenShot](/image/mxdex_screenshot1.png?raw=true "Optional Title")
+![ScreenShot](/image/xelmemo_screenshot1.png?raw=true "Optional Title")
 
 
 # Download
-Download Zip File (https://github.com/minikie/mxdex/releases/latest) and Run setup.exe 
+Download Zip File (https://github.com/minikie/xelmemo/releases/latest) and Run setup.exe 
 
 
 # License
