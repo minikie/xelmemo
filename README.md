@@ -1,4 +1,4 @@
-# Mxdex
+# XelMemo
 Data Memo Excel Addin
 
 [PPT Introduction Material](https://raw.githubusercontent.com/minikie/xelmemo/master/etc/mxdEx_v1.pptm) 
