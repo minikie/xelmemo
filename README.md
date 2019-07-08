@@ -1,7 +1,7 @@
 # XelMemo
 Data Memo Excel Addin
 
-[PPT Introduction Material](https://raw.githubusercontent.com/minikie/xelmemo/master/etc/mxdEx_v1.pptm) 
+[PPT Introduction Material](https://raw.githubusercontent.com/minikie/xelmemo/master/etc/xelmemo_v1.pptm) 
 
 
 # ScreenShot
@@ -13,7 +13,7 @@ Download Zip File (https://github.com/minikie/xelmemo/releases/latest) and Run s
 
 
 # License
-Xenarix(non-commercial version) is free for non-commercial purposes. This is licensed under the terms of the Montrix Non-Commercial License(see the file LICENSE).
+XelMemo(non-commercial version) is free for non-commercial purposes. This is licensed under the terms of the Montrix Non-Commercial License(see the file LICENSE).
 
 Please contact us for the commercial purpose. master@montrix.co.kr
 
